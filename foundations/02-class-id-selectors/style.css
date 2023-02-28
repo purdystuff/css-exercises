@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(247, 94, 160);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.oddball {
+    font-size: 24px;
+}
+
+#even-one {
+    font-size: 36px;
+    color: rgb(25, 25, 239);
+}
+
+#even-two {
+    font-size: 24px;
+    background-color: rgb(121, 199, 5);
+    font-weight: bold;
+}
