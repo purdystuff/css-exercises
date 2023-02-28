@@ -1,0 +1,13 @@
+.e-one, .e-two {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.e-one {
+    background-color: black;
+    color: white;
+}
+
+.e-two {
+    background-color: yellow;
+}
