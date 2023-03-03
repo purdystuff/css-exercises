@@ -8,9 +8,28 @@ img {
 }
 
 .title {
-  font-size: 36px;
+  font-size: 56px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
+
+
+.img-line{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  background-color: rgb(6, 6, 6);
+}
+
+.section{
+  max-width: 200px;
+}
+
+.text{
+  color: aliceblue;
+}
+
 
 /* do not edit this footer */
 .footer {
@@ -18,7 +37,7 @@ img {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 52px;
+  height: 54px;
   display: flex;
   align-items: center;
   justify-content: center;
